@@ -11,7 +11,7 @@
     "doituong": "Tất cả các khách hàng tham gia chơi Vàng trên cổng game"
   },
   {
-    "idgame": 2,
+    "idgame": 1,
     "Vàngme": "Quà Tri Ân",
     "title": "Quà Tri Ân",
     "time": "Sự kiện diễn ra hàng ngày xuyên suốt trên cổng game",
@@ -21,7 +21,7 @@
     "doituong": "Tất cả các khách hàng tham gia chơi Vàng trên cổng game"
   },
   {
-    "idgame": 3,
+    "idgame": 1,
     "Vàngme": "Khuyến mại nạp",
     "title": "Khuyến mại nạp",
     "onoff": "is_km_nap",
