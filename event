@@ -22,6 +22,17 @@
     "doituong": "Áp dụng cho tất cả người chơi trên cổng game"
   },
   {
+    "idgame": 2,
+    "name": "Điểm danh",
+    "title": "Điềm danh mỗi ngày",
+    "time": "Hàng ngày",
+    "onoff": "is_diem_danh",
+    "content": "- Đăng nhập vào Chắn Vương mỗi ngày và hệ thống sẽ tự động tích lũy số \nngày đăng nhập cho bạn.\n\n- Hệ thống Chắn Vương sẽ tích lũy lại những phiên đặt cược thành công \ncủa bạn tối thiểu một phiên 10k\n\n- Chỉ áp dụng cho các tài khoản đãn đăng ký SĐT bảo mật\n\n- Nếu bạn hoàn thành đủ 3 điều kiện kể trên thì tới các ngày 7,15,30 hệ \nthống sẽ tự động cộng thưởng với số tương ứng vào tài khoản của bạn",
+    "giaithuong": "- Điểm danh 7 ngày liên tục: 5.000\n- Điểm danh 15 ngày liên tục: 10.000\n- Điểm danh 30 ngày liên tục: 15.000",
+    "luuy": "- Bạn phải hoàn thành nhiệm vụ điểm danh này liên tiếp lần lượt là 7 ngày, \n15 ngày và 30 ngày thì hệ thống mới trao tặng mức thưởng tương ứng cho \nbạn. Nếu thiếu 1 ngày trong chuỗi liên tiếp đó thì cũng sẽ không được tính.",
+    "doituong": "Áp dụng cho tất cả thành viên của Chắn Vương"
+  },
+  {
     "idgame": 11,
     "Vàngme": "Quà Tri Ân",
     "title": "Quà Tri Ân",
@@ -41,6 +52,17 @@
     "giaithuong": "",
     "luuy": "- Khách hàng khi đổi thưởng qua Đại lý phải có luồng chơi tối thiểu bằng\n10% giá trị nạp trong thời gian khuyến mãi",
     "doituong": "Tất cả các khách hàng tham gia chơi Vàng trên cổng game"
+  },
+  {
+    "idgame": 14,
+    "name": "Hộp Quà BẢo Mật",
+    "title": "Hộp Quà BẢo Mật",
+    "onoff": "is_tk_moi",
+    "time": "Từ 02/02/2023 đến 08/02/2023",
+    "content": "Dành cho các tài khoản mới, đăng ký bảo mật trong thời gian diễn ra sự kiện sẽ nhận được một phần thưởng vô cùng hấp dẫn có giá trị ngẫu nhiên từ 2.000 - 5.000",
+    "giaithuong": "",
+    "luuy": "- Phần thưởng trong Hộp quà bảo mật chỉ có giá trị trong ngày\n- Nếu quá thời gian đó mà người chơi không nhận thưởng thì giá trị của Hộp quà sẽ bị huỷ",
+    "doituong": "Tất cả người chơi trên cổng game"
   },
   {
     "idgame": 7,
