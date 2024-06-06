@@ -16,7 +16,7 @@
     "title": "Nhiệm vụ",
     "onoff": "is_nhiem_vu",
     "time": "Diễn ra vào các ngày trong tuần",
-    "content": "- Na thưởng sẽ được cộng vào số dư của bạn",
+    "content": "- Phần thưởng sẽ được cộng vào số dư của bạn",
     "giaithuong": "- Hoàn thành yêu cầu của từng nhiệm vụ đề ra.\n- Khi đã hoàn thành mỗi nhiệm vụ, bạn sẽ nhận được giải thưởng tương\nxứng cho mỗi nhiệm vụ đó.",
     "luuy": "- Nhận thưởng theo từng nhiệm vụ hoàn thành, không tính trùng nhiệm vụ\nkhi thực hiện\n- Qua ngày mới sẽ reset lại từ đầu\n- Nhiệm vụ sẽ được cập nhật và thay đổi liên tục",
     "doituong": "Áp dụng cho tất cả người chơi trên cổng game"
@@ -63,6 +63,16 @@
     "giaithuong": "",
     "luuy": "- Phần thưởng trong Hộp quà bảo mật chỉ có giá trị trong ngày\n- Nếu quá thời gian đó mà người chơi không nhận thưởng thì giá trị của Hộp quà sẽ bị huỷ",
     "doituong": "Tất cả người chơi trên cổng game"
+  },
+    {
+    "idgame": 6,
+    "name": "Tài Xỉu",
+    "title": "Thánh Dự Tài Xỉu",
+    "time": "0:00:00 đến 23:59:59 hàng ngày",
+    "content": "Người chơi tham gia mini game Tài Xỉu bằng thắng và thua liên tiếp\nCó cơ hội nhận thưởng nhiều phần thưởng.\n\nTiêu Chí Xếp Hạng:\n1. Số ván Đánh thắng hoặc thua liên tiếp dài nhất hệ thống ghi nhận.\n2. Tổng thắng(chuỗi thắng), thua(chuỗi thua).\n3. Thời gian đạt chuỗi thắng hoặc thua liên tiếp. ",
+    "giaithuong": "Top Thắng Liên Tiếp:\nTop1: 2.000.000.\nTop2: 1.000.000.\nTop3: 500.000.\n\nTop Thua Liên Tiếp:\nTop1: 2.000.000.\nTop2: 1.000.000.\nTop3: 500.000.",
+    "luuy": "- Các Ván đánh có lệnh khớp tối thiểu 2.000.\n- Có ít nhất 1 ván lệnh khớp tối thiểu 10.000. \n- Không ghi nhận những ván chơi hoàn trả.\n- Trong trường hợp tranh chấp, quyết định của BTC là quyết định cuối cùng.",
+    "doituong": "Người chơi mini game Tài Xỉu bằng."
   },
   {
     "idgame": 7,
