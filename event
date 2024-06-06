@@ -1,6 +1,6 @@
 [
  {
-    "idgame": 1,
+    "idgame": 30,
     "Vàngme": "Quà tân thủ",
     "title": "QUÀ TÂN THỦ",
     "onoff": "is_first_game",
@@ -11,7 +11,7 @@
     "doituong": "Tất cả các khách hàng tham gia chơi Vàng trên cổng game"
   },
   {
-    "idgame": 1,
+    "idgame": 33,
     "Vàngme": "Quà Tri Ân",
     "title": "Quà Tri Ân",
     "time": "Sự kiện diễn ra hàng ngày xuyên suốt trên cổng game",
@@ -21,7 +21,7 @@
     "doituong": "Tất cả các khách hàng tham gia chơi Vàng trên cổng game"
   },
   {
-    "idgame": 1,
+    "idgame": 35,
     "Vàngme": "Khuyến mại nạp",
     "title": "Khuyến mại nạp",
     "onoff": "is_km_nap",
