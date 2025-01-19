@@ -10,17 +10,6 @@
     "luuy": "- Tài khoản phải đăng ký bảo mật SĐT\n- Vàng thưởng sẽ được cộng thẳng trực tiếp vào tài khoản của\nbạn.\n- Thực hiện tiến trình tuần tự theo các mốc.",
     "doituong": "Tất cả các khách hàng tham gia chơi Vàng trên cổng game"
   },
-    {
-    "idgame": 1,
-    "name": "Nhiệm vụ",
-    "title": "Nhiệm vụ",
-    "onoff": "is_nhiem_vu",
-    "time": "Diễn ra vào các ngày trong tuần",
-    "content": "- Phần thưởng sẽ được cộng vào số dư của bạn",
-    "giaithuong": "- Hoàn thành yêu cầu của từng nhiệm vụ đề ra.\n- Khi đã hoàn thành mỗi nhiệm vụ, bạn sẽ nhận được giải thưởng tương\nxứng cho mỗi nhiệm vụ đó.",
-    "luuy": "- Nhận thưởng theo từng nhiệm vụ hoàn thành, không tính trùng nhiệm vụ\nkhi thực hiện\n- Qua ngày mới sẽ reset lại từ đầu\n- Nhiệm vụ sẽ được cập nhật và thay đổi liên tục",
-    "doituong": "Áp dụng cho tất cả người chơi trên cổng game"
-  },
   {
     "idgame": 2,
     "name": "Điểm danh",
@@ -43,28 +32,6 @@
     "doituong": "Tất cả các khách hàng tham gia chơi Vàng trên cổng game"
   },
   {
-    "idgame": 12,
-    "Vàngme": "Khuyến mại nạp",
-    "title": "Khuyến mại nạp",
-    "onoff": "is_km_nap",
-    "time": "Theo dõi trên fanpage chính thức của NPH",
-    "content": "- Sự kiện siêu đặc biệt dành cho người chơi tại cổng game\n- Khi nạp qua Ngân hàng, quý khách sẽ nhận được\n125% giá trị nạp",
-    "giaithuong": "",
-    "luuy": "- Khách hàng khi đổi thưởng qua Đại lý phải có luồng chơi tối thiểu bằng\n10% giá trị nạp trong thời gian khuyến mãi",
-    "doituong": "Tất cả các khách hàng tham gia chơi Vàng trên cổng game"
-  },
-  {
-    "idgame": 14,
-    "name": "Hộp Quà BẢo Mật",
-    "title": "Hộp Quà BẢo Mật",
-    "onoff": "is_tk_moi",
-    "time": "Từ 02/02/2023 đến 08/02/2023",
-    "content": "Dành cho các tài khoản mới, đăng ký bảo mật trong thời gian diễn ra sự kiện sẽ nhận được một phần thưởng vô cùng hấp dẫn có giá trị ngẫu nhiên từ 2.000 - 5.000",
-    "giaithuong": "",
-    "luuy": "- Phần thưởng trong Hộp quà bảo mật chỉ có giá trị trong ngày\n- Nếu quá thời gian đó mà người chơi không nhận thưởng thì giá trị của Hộp quà sẽ bị huỷ",
-    "doituong": "Tất cả người chơi trên cổng game"
-  },
-    {
     "idgame": 6,
     "name": "Tài Xỉu",
     "title": "Thánh Dự Tài Xỉu",
