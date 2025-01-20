@@ -1,11 +1,11 @@
 [
  {
     "idgame": 0,
-    "Vàngme": "Quà tân thủ",
+    "name": "Quà tân thủ",
     "title": "QUÀ TÂN THỦ",
     "onoff": "is_first_game",
     "time": "Sự kiện chạy xuyên suốt trên cổng game",
-    "content": "- Người chơi sẽ nhận được phần thưởng vô cùng hấp dẫn đến từ NPH khi tiến hành bảo mật và hoàn thành các tiến trình.\n+ Khi bạn bảo mật tài khoản thông qua telegram bạn sẽ được nhận ngay 5000 Vàng để trải nghiệm sản phẩm.\n+ Trong vòng 3 ngày đầu tiên sau khi đăng ký, nếu hết tiền bạn sẽ được tặng 5000 Vàng vào đầu ngày\",
+    "content": "- Người chơi sẽ nhận được phần thưởng vô cùng hấp dẫn đến từ NPH khi tiến hành bảo mật và hoàn thành các tiến trình.\n+ Khi bạn bảo mật tài khoản thông qua telegram bạn sẽ được nhận ngay 5000 Vàng để trải nghiệm sản phẩm.\n+ Trong vòng 3 ngày đầu tiên sau khi đăng ký, nếu hết tiền bạn sẽ được tặng 5000 Vàng vào đầu ngày",
     "giaithuong": "",
     "luuy": "- Tài khoản phải đăng ký bảo mật SĐT\n- Vàng thưởng sẽ được cộng thẳng trực tiếp vào tài khoản của\nbạn.\n- Thực hiện tiến trình tuần tự theo các mốc.",
     "doituong": "Tất cả các khách hàng tham gia chơi Vàng trên cổng game"
